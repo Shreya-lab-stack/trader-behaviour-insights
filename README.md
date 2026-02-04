@@ -23,7 +23,6 @@ and derive actionable trading recommendations.
    - Daily PnL (performance proxy)
    - Daily trade count (activity level)
    - Average trade size (risk proxy)
-   - Long/Short trade ratio
 4. Merged trader metrics with daily sentiment labels
 5. Compared trader behavior across Fear vs Greed regimes
 6. Segmented traders based on risk and activity patterns
