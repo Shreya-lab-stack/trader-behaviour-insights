@@ -48,18 +48,14 @@ and derive actionable trading recommendations.
 ## Repository Structure
 
 Trader-Behavior-Insights/
-│
 ├── notebook/
 │   └── trader_behavior_analysis.ipynb
-│
 ├── outputs/
-│   ├── trade_frequency_by_sentiment.png
-│   ├── avg_pnl_by_sentiment.png
-│   └── daily_pnl_by_sentiment.png
-│
+    ├── trade_frequency_by_sentiment.png
+    ├── avg_pnl_by_sentiment.png
+    └── daily_pnl_by_sentiment.png
 ├── data/
-│   └── README.md   
-│
+    └── README.md   
 ├── README.md
 
 ---
